@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(0, 234, 255);
+}
+
+h1{
+    font-family: cursive;
+}
+
+h4{
+    color:red
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(92, 255, 233);
+    color:black;
+}
+
+img {
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+img:rover{
+    border-radius: 140px;
+}
+
+#camera {
+    width: 360px;
+    height: 250px;
+    border: 1px solid rgb(0, 0, 0);
+}
